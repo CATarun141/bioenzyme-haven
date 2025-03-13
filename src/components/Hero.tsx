@@ -49,7 +49,7 @@ const Hero = () => {
               <img 
                 src="/lovable-uploads/1e89c272-0a06-4b6f-8891-277b5a65f53f.png" 
                 alt="Cleanse Logo" 
-                className="h-full w-full object-contain"
+                className="h-full w-full object-contain mix-blend-multiply"
               />
             </div>
           </div>
